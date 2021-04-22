@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Kartik | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/hackerrank.svg" />][HackerRank]
+[<img align="left" alt="Kartik | Hackerrank" width="22px" src="https://www.mouthshut.com/websites/Hackerrank-com-Photos-925588875" />][HackerRank]
 [<img align="left" alt="Kartik | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/steam.svg" />][Steam]
 [<img align="left" alt="Kartik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
