@@ -1,6 +1,6 @@
 ### Hi there, I'm Kartik 👋
 
-## System engineer at Infosys and a datascience enthusiast.
+## Python Developer and A Datascience Enthusiast.
 
 - 🔭 I’m currently working on a automation project.
 - 🌱 I’m currently learning Machine Learning and Datascience
@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Kartik | Hackerrank" width="22px" src="https://www.mouthshut.com/websites/Hackerrank-com-Photos-925588875" />][HackerRank]
+[<img align="left" alt="Kartik | Hackerrank" width="22px" src="https://raw.githubusercontent.com/yoshimitsu117/yoshimitsu117/main/hr_icon.png" />][HackerRank]
 [<img align="left" alt="Kartik | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/steam.svg" />][Steam]
-[<img align="left" alt="Kartik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kartik | LinkedIn" width="22px" src="https://raw.githubusercontent.com/yoshimitsu117/yoshimitsu117/main/iconfinder_linkedin_1807540.png" />][linkedin]
 
 
 <br />
