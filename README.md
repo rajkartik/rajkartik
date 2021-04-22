@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Kartik | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/hackerrank.svg" />][HackerRank]
-[<img align="left" alt="Kartik | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/steam.svg" />][twitter]
+[<img align="left" alt="Kartik | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/steam.svg" />][Steam]
 [<img align="left" alt="Kartik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -28,8 +28,6 @@
 [<code>
 <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
-[<code>
-
 
 [<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
@@ -38,14 +36,11 @@
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
-
-[<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
 
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
