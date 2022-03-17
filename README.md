@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a automation project.
 - 🌱 I’m currently learning Machine Learning and Datascience
 - 👯 I’m looking to collaboratefor new projects in Datascience and ML using python.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play computer games and listen music.
 
 ### Connect with me:
@@ -67,7 +67,7 @@
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github.com/rajkartik">
-<img align="center" alt="Kartik's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rajkartik&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<!--<img align="center" alt="Kartik's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rajkartik&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>-->
 <a href="https://github.com/rajkartik">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rajkartik&layout=compact&theme=radical" />
 </a>
