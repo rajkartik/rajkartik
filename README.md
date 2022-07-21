@@ -2,9 +2,9 @@
 
 ## Python Developer and A Datascience Enthusiast.
 
-- 🔭 I’m currently working on a automation project.
-- 🌱 I’m currently learning Machine Learning and Datascience
-- 👯 I’m looking to collaboratefor new projects in Datascience and ML using python.
+- 🔭 I’m currently working on a Infra project.
+- 🌱 I’m currently learning Devops
+- 👯 I’m also have some intrest in Datascience and ML fields.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play computer games and listen music.
 
