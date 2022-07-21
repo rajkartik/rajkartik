@@ -1,6 +1,6 @@
 ### Hi there, I'm Kartik 👋
 
-## Python Developer and A Datascience Enthusiast.
+##  A Cloud Engineer in GCP and Python Developer, also A Datascience Enthusiast.
 
 - 🔭 I’m currently working on a Infra project.
 - 🌱 I’m currently learning Devops
