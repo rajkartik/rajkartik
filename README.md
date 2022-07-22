@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Kartik | Hackerrank" width="22px" src="https://raw.githubusercontent.com/yoshimitsu117/yoshimitsu117/main/hr_icon.png" />][HackerRank]
-[<img align="left" alt="Kartik | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/steam.svg" />][Steam]
+[<img align="left" alt="Kartik | Steam" width="22px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/steam_icon_146047.png" />][Steam]
 [<img align="left" alt="Kartik | LinkedIn" width="22px" src="https://raw.githubusercontent.com/yoshimitsu117/yoshimitsu117/main/iconfinder_linkedin_1807540.png" />][linkedin]
 
 
@@ -51,7 +51,7 @@
 </code>](https://www.snowflake.com/)
 
 [<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+<img alt="github" width="26px" src="https://cdn.icon-icons.com/icons2/1907/PNG/128/iconfinder-github-4555889_121361.png">
 </code>](https://github.com/)
 
 [<code>
