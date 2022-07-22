@@ -79,7 +79,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/rajkartik">
 <img align="center" alt="Kartik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajkartik&show_icons=true&theme=synthwave" /></a>
 <a href="https://github.com/rajkartik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkartik&langs_count=7&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkartik&langs_count=7&layout=compact" />
 </a>
 
 ---
