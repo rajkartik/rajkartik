@@ -53,6 +53,12 @@
 [<code>
 <img alt="github" width="26px" src="https://cdn.icon-icons.com/icons2/1907/PNG/128/iconfinder-github-4555889_121361.png">
 </code>](https://github.com/)
+[<code>
+<img alt="Kubernetes" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png">
+</code>](https://kubernetes.io/)
+[<code>
+<img alt="Docker" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/docker_plain_wordmark_logo_icon_146555.png">
+</code>](https://www.docker.com/)
 
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
