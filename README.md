@@ -77,7 +77,7 @@
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github.com/rajkartik">
-<img align="center" alt="Kartik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajkartik&show_icons=true&theme=synthwave" /></a>
+<img align="left" alt="Kartik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajkartik&show_icons=true&theme=synthwave" /></a>
 <a href="https://github.com/rajkartik">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkartik&langs_count=7&layout=compact" />
 </a>
