@@ -23,28 +23,32 @@
 
 
 [<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)
+<img alt="Visual studio code" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/128/microsoft_visual_studio_code_alt_macos_bigsur_icon_189952.png" />
+</code>](https://code.visualstudio.com/)
 [<code>
 <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
 
 [<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
+<img alt="Google Cloud" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/google_cloud_logo_icon_171058.png">
+</code>](https://cloud.google.com/)
+[<code>
+<img alt="Terraform" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_terraform_icon_130125.png">
+</code>](https://www.terraform.io/)
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
+[<code>
+<img alt="Snowflake" width="26px" src="https://cdn.icon-icons.com/icons2/964/PNG/512/snowflake_icon-icons.com_74649.png">
+</code>](https://www.snowflake.com/)
 
 [<code>
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
