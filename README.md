@@ -8,6 +8,26 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play computer games and listen music.
 
+---
+### Stats:
+
+<a href="https://github.com/rajkartik">
+<img align="left" alt="Kartik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajkartik&show_icons=true&theme=synthwave" /></a>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="Kartik | Hackerrank" width="22px" src="https://raw.githubusercontent.com/yoshimitsu117/yoshimitsu117/main/hr_icon.png" />][HackerRank]
@@ -16,6 +36,9 @@
 
 
 <br />
+
+
+
 
 ---
 
@@ -76,10 +99,10 @@
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
+
+
 <a href="https://github.com/rajkartik">
-<img align="left" alt="Kartik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajkartik&show_icons=true&theme=synthwave" /></a>
-<a href="https://github.com/rajkartik">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkartik&langs_count=7&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkartik&langs_count=7&layout=compact" />
 </a>
 
 ---
