@@ -30,7 +30,9 @@
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />][HackerRank]
+[<code>
+<img align="left"  width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
+  </code>](https://www.hackerrank.com/say_rox?hr_r=1)
 [<img align="left"  width="22px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/steam_icon_146047.png" />][Steam]
 [<img align="left"  width="22px" src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png" />][linkedin]
 
@@ -107,7 +109,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ---
 
-[HackerRank]: https://www.hackerrank.com/say_rox
+[HackerRank]: https://www.hackerrank.com/say_rox?hr_r=1
 [Steam]: https://steamcommunity.com/profiles/76561198376698043/
-[linkedin]: www.linkedin.com/in/kartik-raj-89762616b
+[linkedin]: https://www.linkedin.com/in/kartik-raj-89762616b/
 
