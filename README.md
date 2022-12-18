@@ -30,9 +30,9 @@
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://raw.githubusercontent.com/yoshimitsu117/yoshimitsu117/main/hr_icon.png" />][HackerRank]
+[<img align="left"  width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />][HackerRank]
 [<img align="left"  width="22px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/steam_icon_146047.png" />][Steam]
-[<img align="left"  width="22px" src="https://raw.githubusercontent.com/yoshimitsu117/yoshimitsu117/main/iconfinder_linkedin_1807540.png" />][linkedin]
+[<img align="left"  width="22px" src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png" />][linkedin]
 
 
 <br />
