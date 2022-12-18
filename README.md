@@ -30,9 +30,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Kartik | Hackerrank" width="22px" src="https://raw.githubusercontent.com/yoshimitsu117/yoshimitsu117/main/hr_icon.png" />][HackerRank]
-[<img align="left" alt="Kartik | Steam" width="22px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/steam_icon_146047.png" />][Steam]
-[<img align="left" alt="Kartik | LinkedIn" width="22px" src="https://raw.githubusercontent.com/yoshimitsu117/yoshimitsu117/main/iconfinder_linkedin_1807540.png" />][linkedin]
+[<img align="left"  width="22px" src="https://raw.githubusercontent.com/yoshimitsu117/yoshimitsu117/main/hr_icon.png" />][HackerRank]
+[<img align="left"  width="22px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/steam_icon_146047.png" />][Steam]
+[<img align="left"  width="22px" src="https://raw.githubusercontent.com/yoshimitsu117/yoshimitsu117/main/iconfinder_linkedin_1807540.png" />][linkedin]
 
 
 <br />
@@ -67,7 +67,7 @@
 
 
 [<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png">
 </code>](https://dev.mysql.com/)
 [<code>
 <img alt="Snowflake" width="26px" src="https://cdn.icon-icons.com/icons2/964/PNG/512/snowflake_icon-icons.com_74649.png">
