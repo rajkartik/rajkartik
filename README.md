@@ -3,9 +3,9 @@
 ##  A Cloud Engineer in GCP and Python Developer, also A Datascience Enthusiast.
 
 - 🔭 I’m currently working on a Infrastrucure project.
-- 🌱 Currently learning Devops.
+- 🌱 Currently Working in  Devops/Data Engineering Field.
 - 👯 Also kind of interested in Datascience and ML fields.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects and Learn More About Different Devops Tools.
 - ⚡ Fun fact: I love to play computer games and listen music.
 
 ---
