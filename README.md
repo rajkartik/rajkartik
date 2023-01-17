@@ -12,7 +12,7 @@
 ### Stats:
 
 <a href="https://github.com/rajkartik">
-<img align="left" alt="Kartik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajkartik&show_icons=true&theme=synthwave" /></a>
+<img align="left" alt="Kartik's Github Stats" src="https://github-readme-statsstats-sigma-five.vercel.app/api?username=rajkartik&show_icons=true&theme=synthwave" /></a>
 <br />
 <br />
 <br />
@@ -104,7 +104,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 
 <a href="https://github.com/rajkartik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkartik&langs_count=7&layout=compact" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajkartik&theme=react&line_height=40&hide=css" />
 </a>
 
 ---
