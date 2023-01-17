@@ -12,7 +12,7 @@
 ### Stats:
 
 <a href="https://github.com/rajkartik">
-<img align="left" alt="Kartik's Github Stats" src="https://github-readme-statsstats-sigma-five.vercel.app/api?username=rajkartik&show_icons=true&theme=synthwave" /></a>
+<img align="left" alt="Kartik's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajkartik&show_icons=true&theme=synthwave" /></a>
 <br />
 <br />
 <br />
