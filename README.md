@@ -1,12 +1,12 @@
 ### Hi there, I'm Kartik 👋
 
-##  A Cloud Engineer in GCP and Python Developer, also A Datascience Enthusiast.
+##  A passionate Cloud Engineer proficient in GCP and AWS, as well as a skilled Python Developer with a keen interest in Data Science/LLMs. I thrive on taking up challenging Infrastructure and DevOps projects, constantly evolving and expanding my skill set.
 
 - 🔭 I’m currently working on a Infrastrucure/Devops projects.
 - 🌱 Learning and Growing.
-- 👯 Also kind of interested in Datascience and ML fields.
-- 🥅 2023 Goals: Contribute more to Open Source projects and Learn More About Different Devops Tools.
-- ⚡ Fun fact: I love to play computer games and listen music.
+- 👯 While my expertise lies in Cloud Engineering, I'm also drawn to the captivating realms of Data Science and Machine Learning Operations. I see these fields as avenues for further exploration, where I can leverage my skills to extract insights and create impactful solutions..
+- 🥅 2023 Goals: my goals revolve around increasing my contributions to Open Source projects and delving deeper into a diverse array of DevOps tools. By doing so, I aim to enrich both my personal growth and the tech community at large.
+- ⚡ Fun fact: Beyond my professional pursuits, I find joy in the world of computer games and Animes. It's fascinating how these interests offer a refreshing break from the tech realm, allowing me to recharge and return with renewed enthusiasm.
 
 ---
 ### Stats:
