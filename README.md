@@ -1,6 +1,6 @@
 ### Hey there, I'm Kartik! 👋
 
-## Passionate Cloud Engineer | DevOps Enthusiast | Python Developer
+## Passionate Platform Engineer | DevOps Enthusiast | Python Developer
 
 Welcome to my world of technology and exploration. I'm Kartik, a dedicated Cloud Engineer skilled in GCP and AWS, and a Python Developer with a penchant for turning ideas into code. My curiosity leads me through the landscapes of Infrastructure, DevOps, and the captivating realms of Data Science and Machine Learning.
 
