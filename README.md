@@ -123,4 +123,6 @@ Find me around the web:
 [linkedin]: https://www.linkedin.com/in/kartik-raj-89762616b/
 [HackerRank]: https://www.hackerrank.com/say_rox?hr_r=1
 
+<!-- Steam-Stats start -->
+<!-- Steam-Stats end -->
 
