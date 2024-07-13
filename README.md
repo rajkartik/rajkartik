@@ -124,5 +124,7 @@ Find me around the web:
 [HackerRank]: https://www.hackerrank.com/say_rox?hr_r=1
 
 <!-- Steam-Stats start -->
+![Steam Summary](https://github.com/rajkartik/rajkartik/blob/main/assets/steam_summary.png)
+![Recently Played Games](https://github.com/rajkartik/rajkartik/blob/main/assets/recently_played_games.png)
 <!-- Steam-Stats end -->
 
